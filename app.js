@@ -32,8 +32,8 @@ app.post("/admin", (req, res) => {
         port: 465,
         secure: true,
         auth: {
-            user: 'tarrasqueaohk@gmail.com',
-            pass: 'fuckyouallhackers123'
+            user: 'email',
+            pass: '<password>'
         }
     });
 
