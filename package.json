@@ -14,6 +14,6 @@
     "method-override": "^3.0.0",
     "mongoose": "^5.4.13",
     "node": "^11.10.0",
-    "nodemailer": "^5.1.1"
+    "nodemailer": "^6.4.16"
   }
 }
